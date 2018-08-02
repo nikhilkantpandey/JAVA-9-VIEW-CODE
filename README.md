@@ -10,7 +10,6 @@ To make build process and maintainance of java code libraries and large applicat
 To design and implement a standard module system for the Java Platform which can be applied on both Platform and JDK easily.
 
 ---------------------------------IN THAT FEATURE ARE ALSO MORE FEATURES ARE INCLUDED IN JDK 9 -----------------------
-                                                     JAVADOC AND JSHEEL 
                                               GC (Garbage Collector) Improvements
                                                        Stack-Walking API
                                               Filter Incoming Serialization Data
