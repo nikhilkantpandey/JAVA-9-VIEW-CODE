@@ -10,13 +10,13 @@ To make build process and maintainance of java code libraries and large applicat
 To design and implement a standard module system for the Java Platform which can be applied on both Platform and JDK easily.
 
 ---------------------------------IN THAT FEATURE ARE ALSO MORE FEATURES ARE INCLUDED IN JDK 9 -----------------------
-                                              GC (Garbage Collector) Improvements
-                                                       Stack-Walking API
-                                              Filter Incoming Serialization Data
-                                                   Deprecate the Applet API
-                                                 Indify String Concatenation
-                                                   Enhanced Method Handles
-                                             Java Platform Logging API and Service
-                                                       Compact Strings
-                                                   Parser API for Nashor
+                                              GC (Garbage Collector) Improvements;
+                                                       Stack-Walking API;
+                                              Filter Incoming Serialization Data;
+                                                   Deprecate the Applet API;
+                                                 Indify String Concatenation;
+                                                   Enhanced Method Handles;
+                                             Java Platform Logging API and Service;
+                                                       Compact Strings;
+                                                   Parser API for Nashor;
 NOTE -IF YOU WANT TO RUN MY CODE FIRST INSTALL JAVA 9JDK AFTER YOU RUN IT
